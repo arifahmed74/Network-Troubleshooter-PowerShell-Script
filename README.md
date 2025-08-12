@@ -43,5 +43,6 @@ This PowerShell script automates key network troubleshooting tasks commonly perf
 
 ### Step 5 : Review Results 
 - File Saved to the Desktop after running script
-  <img width="569" height="276" alt="Screenshot 2025-08-12 at 12 38 17 PM" src="https://github.com/user-attachments/assets/252068d1-d0da-4404-b726-c8098c3e47ef" />
+  
+<img width="569" height="276" alt="Screenshot 2025-08-12 at 12 38 17 PM" src="https://github.com/user-attachments/assets/252068d1-d0da-4404-b726-c8098c3e47ef" />
 
